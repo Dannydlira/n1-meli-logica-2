@@ -18,5 +18,8 @@
   "homepage": "https://github.com/reprograma/n1-meli-logica-2#readme",
   "dependencies": {
     "readline-sync": "^1.4.10"
-  }
+  },
+  "keywords": [
+    "semana-3"
+  ]
 }
